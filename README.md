@@ -1,4 +1,4 @@
-![Headertest](https://user-images.githubusercontent.com/71260714/172378587-af46945d-0bd5-4501-a1b3-09b6682fd884.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/71260714/172380549-a1dcc72e-7508-4dcb-97c4-1f27ccc3740f.png)
 
 - :woman_technologist: I am a newly graduated front-end developer looking for new opportunities! 
 - :desktop_computer: I enjoy working with React.js and Next.js, and with a sprinkle of SCSS on top I am at my happiest. 
