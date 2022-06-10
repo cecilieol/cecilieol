@@ -22,7 +22,7 @@ Netlify // Wordpress // Strapi // Heroku // Postman // Hotjar // Trello
 
 ## Eager to learn
 
-:nerd_face: I believe that a developer should never stop learning, and this is what I would like to learn next:
+:nerd_face: I believe that a developer should never stop learning, and this is what I would like to work with next:
 
 - More JS frameworks
 - More CSS frameworks
