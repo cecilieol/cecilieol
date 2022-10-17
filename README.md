@@ -26,6 +26,7 @@ Netlify // Wordpress // Strapi // Heroku // Postman // Hotjar // Trello
 
 - More JS frameworks
 - More CSS frameworks
+- UX design
 - Backend development
 - Game development
 - App development
