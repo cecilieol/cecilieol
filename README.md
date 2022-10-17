@@ -2,14 +2,14 @@
 
 :woman_technologist: I am a newly graduated front-end developer looking for new opportunities!  
 :desktop_computer: I mosty enjoy working with React.js and Next.js, and with a sprinkle of SCSS on top I am at my happiest.  
-:space_invader: Always excited about learning new things, and I am currently diving into game development with Phaser in my spare time.  
+:space_invader: Always excited about learning new things, and I am currently taking a course in TypeScript.  
 
 ## Skills
 
 :books: This is a selection of the knowledge I have aquired during my studies:
 
 #### Code
-HTML // CSS // Bootstrap // SCSS // CSS Modules // JavaScript // React.js // Next.js // TypeScript
+HTML // CSS // Bootstrap // SCSS // CSS Modules // JavaScript // React.js // Next.js
 
 #### Design
 UX // IxD // WCAG
@@ -26,6 +26,7 @@ Netlify // Wordpress // Strapi // Heroku // Postman // Hotjar // Trello
 
 - More JS frameworks
 - More CSS frameworks
+- Backend development
 - Game development
 - App development
 - ..and anything else you would consider valuable knowledge!
